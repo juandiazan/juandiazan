@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Juan Ignacio Díaz (274724)
+#### Estudiante en Universidad ORT Uruguay, 4to semestre, grupo M4B
+
 <!--
 **juandiazan/juandiazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
